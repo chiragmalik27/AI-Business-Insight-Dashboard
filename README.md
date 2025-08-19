@@ -55,7 +55,7 @@ Identified:
 
 🚀 Getting Started
 🔹 Clone the Repository
-git clone https://github.com/your-username/AI-Powered-Business-Insights.git
+git clone https://github.com/chiragmalik27/AI-Business-Insight-Dashboard.git
 cd AI-Powered-Business-Insights
 
 🔹 Load Data in Power BI
